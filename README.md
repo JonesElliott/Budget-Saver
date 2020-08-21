@@ -1,4 +1,4 @@
-# BUDGET-BALLER-
+# Budget Saver
 [Deployed Site](https://jepoy92.github.io/BUDGET-BALLER-/index.html)
 
 ## About
